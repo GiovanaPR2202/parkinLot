@@ -24,7 +24,6 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 * Você instalou a versão mais recente de `Flutter/ android-studio/`
 * Você tem uma máquina `<Windows / Linux / Mac>`
-* Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
 
 
 
