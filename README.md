@@ -1,7 +1,9 @@
-# parkinLot
+# ParkinLot
 
 
-<img width="6105" alt="ParkingLot-metade" src="https://user-images.githubusercontent.com/41347753/140755149-961ab02a-5756-46eb-86fa-a81d03a28927.png">
+<img width="6105" alt="ParkingLot-metade" src="https://user-images.githubusercontent.com/41347753/141142835-060390c2-da59-4fb4-a844-09ada734bb7f.png">
+
+
 
 Projeto parkinLot e um iniciativa privada que consiste em um aplicativo para conectar os usuarios aos estacionamentos da empresa parkinLot com o objetivo de modernizar e facilitar o acesso aos espaços da empresa.
 
