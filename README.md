@@ -5,7 +5,7 @@
 
 
 
-Projeto parkinLot e um iniciativa privada que consiste em um aplicativo para conectar os usuarios aos estacionamentos da empresa parkinLot com o objetivo de modernizar e facilitar o acesso aos espaços da empresa.
+Projeto parkinLot e um Projeto para faculdade de alguns alunos que consiste em um aplicativo para conectar os usuarios aos estacionamentos da empresa parkinLot com o objetivo de modernizar e facilitar o acesso aos espaços da empresa.
 
 
 
